@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.pdar{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+div.item{
+    width: 30%;
+    background-color: aqua;
+    padding: 30px;
+}
